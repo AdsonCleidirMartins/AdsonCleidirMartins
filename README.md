@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=AdsonCleidirMartins)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdsonCleidirMartins&show_icons=true&theme=transparent)
 
 ![Statscard](https://git-stats-plum.vercel.app/api?username=AdsonCleidirMartins&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
 
@@ -105,7 +105,7 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdsonCleidirMartins/AdsonCleidirMartins/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdsonCleidirMartins/AdsonCleidirMartins/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdsonCleidirMartins/AdsonCleidirMartins/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdsonCleidirMartins/AdsonCleidirMartins/output/github-contribution-grid-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdsonCleidirMartins/AdsonCleidirMartins/output/github-contribution-grid-snake.svg?v=1">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdsonCleidirMartins/AdsonCleidirMartins/output/github-contribution-grid-snake.svg?v=1">
 </picture>
