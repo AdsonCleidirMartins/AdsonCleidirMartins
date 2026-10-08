@@ -16,11 +16,11 @@
 
 <div align="center">
 
-![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=charmeey&layout=compact&theme=transparent&disable_animations=true&exclude_repo=reportesCharmeey,charmeey_report_app)
+![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=AdsonCleidirMartins)
 
-![Statscard](https://git-stats-plum.vercel.app/api?username=charmeey&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
+![Statscard](https://git-stats-plum.vercel.app/api?username=AdsonCleidirMartins&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
 
-![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=charmeey&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=bebec3&disable_animations=true)
+![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=AdsonCleidirMartins&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=bebec3&disable_animations=true)
 
 </div>
 
