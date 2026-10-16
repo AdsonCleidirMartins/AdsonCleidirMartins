@@ -16,11 +16,11 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdsonCleidirMartins&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DraganPetrovic2020&show_icons=true&theme=transparent)
 
-![Statscard](https://git-stats-plum.vercel.app/api?username=AdsonCleidirMartins&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
+![Statscard](https://git-stats-plum.vercel.app/api?username=DraganPetrovic2020&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
 
-![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=AdsonCleidirMartins&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=bebec3&disable_animations=true)
+![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=DraganPetrovic2020&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=bebec3&disable_animations=true)
 
 </div>
 
@@ -105,7 +105,7 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdsonCleidirMartins/AdsonCleidirMartins/output/github-contribution-grid-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdsonCleidirMartins/AdsonCleidirMartins/output/github-contribution-grid-snake.svg?v=1">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdsonCleidirMartins/AdsonCleidirMartins/output/github-contribution-grid-snake.svg?v=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DraganPetrovic2020/DraganPetrovic2020/output/github-contribution-grid-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DraganPetrovic2020/DraganPetrovic2020/output/github-contribution-grid-snake.svg?v=1">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DraganPetrovic2020/DraganPetrovic2020/output/github-contribution-grid-snake.svg?v=1">
 </picture>
